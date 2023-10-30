@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 👨‍💻 Estudiante de Ingeniería en Sistemas 
 
-📚 Estudiando C# de manera autodidacta 
-
 🔐 Siguiendo el [Roadmap de Ciberseguridad](https://roadmap.sh/).
 
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/653f2721602c6661a5791569?variant=dark" alt="roadmap.sh"/></a>
